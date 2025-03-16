@@ -46,7 +46,7 @@ const IntroCard: React.FC<IntroCardProps> = ({ onStart }) => {
           </h2>
           
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            Throughout this speech course, I've received valuable feedback from my instructor and classmates. 
+            Throughout this speech course, I&apos;ve received valuable feedback from my instructor and classmates. 
             This interactive presentation analyzes that feedback, showing my growth across three key areas:
           </p>
           
@@ -84,7 +84,7 @@ const IntroCard: React.FC<IntroCardProps> = ({ onStart }) => {
           
           <p className="text-gray-600 dark:text-gray-300 mb-8">
             Navigate through my feedback journey using the arrow buttons or keyboard arrows. 
-            Press 'S' at any time to view the summary of all feedback by category.
+            Press &apos;S&apos; at any time to view the summary of all feedback by category.
           </p>
           
           <div className="text-center">

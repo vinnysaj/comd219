@@ -181,9 +181,9 @@ const JourneyCard: React.FC<JourneyCardProps> = ({ categoryStats = {
               Advice for Future Students
             </h3>
             <blockquote className="italic text-gray-600 dark:text-gray-300 border-l-4 border-indigo-200 dark:border-indigo-800 pl-4">
-              "Embrace feedback as a gift, not criticism. Record yourself practicing, and watch it critically. The most 
-              growth happens when you're willing to see your own areas for improvement and actively work on them before 
-              your next presentation."
+              &ldquo;Embrace feedback as a gift, not criticism. Record yourself practicing, and watch it critically. The most 
+              growth happens when you&apos;re willing to see your own areas for improvement and actively work on them before 
+              your next presentation.&rdquo;
             </blockquote>
           </motion.div>
         </motion.div>

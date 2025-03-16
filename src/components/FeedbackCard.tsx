@@ -78,7 +78,7 @@ const FeedbackCard: React.FC<FeedbackCardProps> = ({
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4, delay: 0.3 }}
       >
-        "{content}"
+        &ldquo;{content}&rdquo;
       </motion.blockquote>
       
       <motion.div 
